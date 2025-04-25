@@ -8,7 +8,7 @@ This project uses phonetic rules and simple mapping techniques to convert words 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eerhshr/pronounceitright.git
+   https://github.com/eerhshr/pronounce-it-right.git
    ```
    
 2. Install Required Libraries:
