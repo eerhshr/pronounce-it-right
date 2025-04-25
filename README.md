@@ -1,6 +1,6 @@
-# spell-it-right
+# pronounce-it-right
 
-Spell It Right is an easy-to-use Python tool that converts any word into its human-readable phonetic spelling.
+Pronounce It Right is an easy-to-use Python tool that converts any word into its human-readable phonetic spelling.
 This project uses phonetic rules and simple mapping techniques to convert words into a readable format.
 
 ### **Setup and Installation**
@@ -8,7 +8,7 @@ This project uses phonetic rules and simple mapping techniques to convert words 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eerhshr/spellitright.git
+   git clone https://github.com/eerhshr/pronounceitright.git
    ```
    
 2. Install Required Libraries:
@@ -17,7 +17,7 @@ This project uses phonetic rules and simple mapping techniques to convert words 
 
 3. Open the Notebook:
 
-   After setting up the environment, you can open `SpellItRight.ipynb` notebook in your browser.
+   After setting up the environment, you can open `PronounceItRight.ipynb` notebook in your browser.
 
 
 ### **Example**
